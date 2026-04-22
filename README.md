@@ -1,2 +1,5 @@
-<div style="text-align: center"> # 😀 </div>
-Things ive used ai 100% To make, which I personally found was pretty cool
+<div align="center">
+# 😀
+</div>
+
+Things I've used AI 100% to make, which I personally found pretty cool
